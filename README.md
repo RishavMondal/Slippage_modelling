@@ -1,5 +1,3 @@
-# Slippage_modelling
-
 # Slippage Modeling for Stock Order Books
 
 This project demonstrates how to simulate and model **temporary market impact** (slippage) using synthetic or MBP-10 (Market By Price) order book data.
